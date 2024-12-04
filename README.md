@@ -14,11 +14,17 @@ convert jpg or png file into dxf file
 4.save
 
 or
+
 2.Select dir
+
 3.convert
+
 4.save
+
 3.4.3.4.……
 
 or 
+
 2.set Quick Mode
+
 3.Select dir
